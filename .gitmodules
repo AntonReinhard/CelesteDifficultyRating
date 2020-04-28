@@ -1,3 +1,4 @@
 [submodule "CelesteTAS-EverestInterop"]
 	path = CelesteTAS-EverestInterop
-	url = https://github.com/EverestAPI/CelesteTAS-EverestInterop.git
+	url = ./CelesteTAS-EverestInterop/
+	branch = mmaster
